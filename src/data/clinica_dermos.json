@@ -1,0 +1,1060 @@
+{
+  "clinica": "Clínica Dermos",
+  "tabela_geral": [
+    {
+      "procedimento": "Biopsia de Pele",
+      "valor": 550.0
+    },
+    {
+      "procedimento": "Cantoplastia (por unha)",
+      "valor": 600.0
+    },
+    {
+      "procedimento": "Cirurgia Benigna",
+      "valor": 550.0
+    },
+    {
+      "procedimento": "Cirurgia Maligna (Média e Grande)",
+      "valor": 800.0
+    },
+    {
+      "procedimento": "Cirurgia Maligna (Pequena)",
+      "valor": 600.0
+    },
+    {
+      "procedimento": "Consulta Eletiva",
+      "valor": 500.0
+    },
+    {
+      "procedimento": "Consulta Domiciliar / Dra Sabrina",
+      "valor": 900.0
+    },
+    {
+      "procedimento": "Eletrocoagulação ou Curetagem (até 10 lesões)",
+      "valor": 550.0
+    },
+    {
+      "procedimento": "Eletrocoagulação ou Curetagem (até 5 lesões)",
+      "valor": 450.0
+    },
+    {
+      "procedimento": "Ellance",
+      "valor": 3000.0,
+      "observacao": "por ampola"
+    },
+    {
+      "procedimento": "Enzimas Corporal",
+      "valor": 600.0
+    },
+    {
+      "procedimento": "Enzimas Papada",
+      "valor": 600.0
+    },
+    {
+      "procedimento": "Esvaziadores",
+      "valor": 600.0
+    },
+    {
+      "procedimento": "Elleva por Frasco",
+      "valor": 2800.0
+    },
+    {
+      "procedimento": "Harmonyca por Ampola",
+      "valor": 2200.0
+    },
+    {
+      "procedimento": "Hydryalix por Ampola",
+      "valor": 1875.0
+    },
+    {
+      "procedimento": "Infiltração Corticoide Pequena",
+      "valor": 250.0
+    },
+    {
+      "procedimento": "Infiltração Corticoide Grande",
+      "valor": 350.0
+    },
+    {
+      "procedimento": "Intradérmico",
+      "valor": 400.0
+    },
+    {
+      "procedimento": "Laser CO2 – Olhos ou Localizado",
+      "valor": 700.0
+    },
+    {
+      "procedimento": "Laser CO2 Fracionado",
+      "valor": 1300.0
+    },
+    {
+      "procedimento": "Laser CO2 + Drug Delivery",
+      "valor": 1300.0
+    },
+    {
+      "procedimento": "Laser Lavieen",
+      "valor": 1400.0,
+      "observacao": "Se fechar pacote R$1.300,00 cada sessão (olheira R$700,00). Caso faça face + pescoço: R$1.600,00"
+    },
+    {
+      "procedimento": "Mesoterapia (Capilar)",
+      "valor": 500.0
+    },
+    {
+      "procedimento": "Botox Bruxismo",
+      "valor": 700.0
+    },
+    {
+      "procedimento": "Microagulhamento (Roller)",
+      "valor": 1100.0
+    },
+    {
+      "procedimento": "Microagulhamento na Barriga",
+      "valor": 1500.0
+    },
+    {
+      "procedimento": "MMP (p/ Estrias)",
+      "valor": 700.0
+    },
+    {
+      "procedimento": "MMP (Cabelo) - Gisele, Nicole, Leonardo",
+      "valor": 750.0,
+      "observacao": "Valor divergente"
+    },
+    {
+      "procedimento": "Peeling de Ácido Retinóico – Costas",
+      "valor": null,
+      "observacao": "Valor não visível"
+    },
+    {
+      "procedimento": "Peeling de Ácido Retinóico – Rosto",
+      "valor": 700.0
+    },
+    {
+      "procedimento": "Preenchimento por Ampola",
+      "valor": 400.0
+    },
+    {
+      "procedimento": "Preenchimento Labial",
+      "valor": 1500.0
+    },
+    {
+      "procedimento": "Profhilo",
+      "valor": 1700.0
+    },
+    {
+      "procedimento": "Phosphocol",
+      "valor": 2500.0,
+      "observacao": "Valor de Dra Gisele é divergente"
+    },
+    {
+      "procedimento": "Radiesse",
+      "valor": 600.0
+    },
+    {
+      "procedimento": "Rinomodelação (Preenchimento no Nariz)",
+      "valor": 2500.0
+    },
+    {
+      "procedimento": "Sculptra (cada frasco)",
+      "valor": 2000.0
+    },
+    {
+      "procedimento": "Skinbooster",
+      "valor": 3000.0
+    },
+    {
+      "procedimento": "Toxina Axilas",
+      "valor": 1500.0
+    },
+    {
+      "procedimento": "Toxina Face e Lábio",
+      "valor": 2300.0
+    },
+    {
+      "procedimento": "Toxina Lábios",
+      "valor": 1800.0
+    },
+    {
+      "procedimento": "Toxina Mento",
+      "valor": 700.0
+    },
+    {
+      "procedimento": "Toxina Rosto e Pescoço Feminino (Botox Global)",
+      "valor": 2300.0
+    },
+    {
+      "procedimento": "Toxina Rosto e Pescoço Masculino (Botox Global)",
+      "valor": 2500.0
+    },
+    {
+      "procedimento": "Toxina Pescoço Sozinho",
+      "valor": 1200.0
+    },
+    {
+      "procedimento": "Toxina Terço Superior (Fem)",
+      "valor": 1500.0
+    },
+    {
+      "procedimento": "Toxina Terço Superior (Masc)",
+      "valor": 1700.0
+    },
+    {
+      "procedimento": "Toxina Terço Superior (Masc) + Mento",
+      "valor": 2000.0
+    },
+    {
+      "procedimento": "Preenchedor USK",
+      "valor": 1600.0
+    },
+    {
+      "procedimento": "Cirurgia de Xantelasma",
+      "valor": 600.0,
+      "observacao": "por lado"
+    },
+    {
+      "procedimento": "Elleva X",
+      "valor": 6000.0
+    }
+  ],
+  "medicos": {
+    "dr_leonardo_maciel": {
+      "observacao": "Valores diferenciados",
+      "procedimentos": [
+        {
+          "procedimento": "Dermatoscopia/Mapeamento Capilar",
+          "valor": 350.0
+        },
+        {
+          "procedimento": "Dermatoscopia/Mapeamento Corporal (1ª vez)",
+          "valor": 2000.0,
+          "observacao": "R$2.500 paciente 1ª vez"
+        },
+        {
+          "procedimento": "Dermatoscopia por Área",
+          "valor": 450.0
+        },
+        {
+          "procedimento": "MMP (Abdômen)",
+          "valor": 1500.0
+        },
+        {
+          "procedimento": "MMP (Barba)",
+          "valor": 650.0
+        },
+        {
+          "procedimento": "MMP (Cabelo)",
+          "valor": 1050.0
+        },
+        {
+          "procedimento": "MMP (Rosto)",
+          "valor": 1200.0
+        },
+        {
+          "procedimento": "Preenchimento (valor por cada ampola)",
+          "valor": 1500.0
+        },
+        {
+          "procedimento": "IPCA (Cicatriz de Acne)",
+          "valor": 2650.0
+        },
+        {
+          "procedimento": "Botox Global Superior e Inferior",
+          "valor": 2400.0
+        },
+        {
+          "procedimento": "Biópsia",
+          "valor": 600.0
+        },
+        {
+          "procedimento": "Cirurgia Câncer de Pele",
+          "valor": 1500.0
+        },
+        {
+          "procedimento": "Cirurgia Cisto",
+          "valor": 850.0
+        },
+        {
+          "procedimento": "Laser CO2 Pálpebra",
+          "valor": 600.0
+        },
+        {
+          "procedimento": "IPCA + Tunelização (Cicatriz de Acne)",
+          "valor": 3750.0
+        },
+        {
+          "procedimento": "Cantoplastia (Cirurgia de Unha/por Unha)",
+          "valor": 600.0
+        },
+        {
+          "procedimento": "MMP + IPCA (p/ Estrias – por área)",
+          "valor": 1600.0
+        },
+        {
+          "procedimento": "Remodelação",
+          "valor": 2200.0
+        },
+        {
+          "procedimento": "IPCA Melasma / Microagulhamento",
+          "valor": 1150.0
+        },
+        {
+          "procedimento": "Lobuloplastia por Furo",
+          "valor": 1800.0
+        },
+        {
+          "procedimento": "Lavieen Barba",
+          "valor": 550.0
+        }
+      ]
+    },
+    "dra_michelle": {
+      "procedimentos": [
+        {
+          "procedimento": "Tunelização",
+          "valor": 1000.0
+        },
+        {
+          "procedimento": "MMP Sobrancelha",
+          "valor": 300.0
+        },
+        {
+          "procedimento": "Cisto Epidérmico",
+          "valor": 800.0
+        }
+      ]
+    },
+    "dr_leopoldo_duailibe": {
+      "observacao": "Valores diferenciados",
+      "procedimentos": [
+        {
+          "procedimento": "Consulta Eletiva",
+          "valor": 650.0
+        },
+        {
+          "procedimento": "Biopsia de Pele",
+          "valor": 610.0
+        },
+        {
+          "procedimento": "Infiltração",
+          "valor": 610.0
+        },
+        {
+          "procedimento": "Mapeamento",
+          "valor": 610.0
+        },
+        {
+          "procedimento": "MMP Capilar",
+          "valor": 1400.0
+        }
+      ]
+    },
+    "dra_nicolle": {
+      "observacao": "Valores diferenciados",
+      "procedimentos": [
+        {
+          "procedimento": "Consulta (Pacientes Novos)",
+          "valor": 750.0
+        },
+        {
+          "procedimento": "Consulta (Pacientes Antigos)",
+          "valor": 700.0
+        },
+        {
+          "procedimento": "MMP Cabelo",
+          "valor": 750.0,
+          "observacao": "Valor atualizado de R$600 para R$750"
+        },
+        {
+          "procedimento": "Rinomodelação",
+          "valor": 850.0
+        },
+        {
+          "procedimento": "Preenchimento Labial",
+          "valor": 2200.0
+        },
+        {
+          "procedimento": "Chrome Facial",
+          "valor": 1900.0
+        },
+        {
+          "procedimento": "Lavieen Rosto e Pescoço",
+          "valor": 1100.0,
+          "observacao": "Ou R$1.300,00"
+        }
+      ]
+    },
+    "dra_gisele_campelo": {
+      "observacao": "Valores diferenciados",
+      "procedimentos": [
+        {
+          "procedimento": "Cantoplastia",
+          "valor": 800.0,
+          "observacao": "por unha"
+        },
+        {
+          "procedimento": "Lobuloplastia por Lado / Furo",
+          "valor": 1000.0
+        },
+        {
+          "procedimento": "Laser CO2 nos Lábios",
+          "valor": 450.0
+        },
+        {
+          "procedimento": "Esvaziadores (Phosphocol)",
+          "valor": 700.0
+        },
+        {
+          "procedimento": "Botox Couro Cabeludo",
+          "valor": 1800.0
+        },
+        {
+          "procedimento": "MMP Capilar",
+          "valor": 850.0
+        },
+        {
+          "procedimento": "MMP Face / Estrias",
+          "valor": 1100.0
+        },
+        {
+          "procedimento": "Laser CO2 Pálpebras",
+          "valor": 800.0
+        },
+        {
+          "procedimento": "Botox Masseter",
+          "valor": 1500.0
+        },
+        {
+          "procedimento": "Microagulhamento com MMP",
+          "valor": 1100.0
+        },
+        {
+          "procedimento": "Leucodermia",
+          "valor": null
+        },
+        {
+          "procedimento": "Botox Masseter (2ª entrada)",
+          "valor": 1500.0
+        }
+      ]
+    },
+    "dra_jordana": {
+      "observacao": "Valores diferenciados",
+      "procedimentos": [
+        {
+          "procedimento": "Preenchimento Labial",
+          "valor": 1800.0
+        },
+        {
+          "procedimento": "Lobuloplastia",
+          "valor": 1000.0,
+          "observacao": "por lado / furo"
+        }
+      ]
+    },
+    "dra_leticia_rezende": {
+      "procedimentos": [
+        {
+          "procedimento": "Lobuloplastia",
+          "valor": 900.0,
+          "observacao": "por furo / lado"
+        }
+      ]
+    },
+    "dra_ana_flavia": {
+      "procedimentos": [
+        {
+          "procedimento": "Fotona Íntimo",
+          "valor": 1500.0
+        },
+        {
+          "procedimento": "Pacote 3 sessões Fotona Íntimo",
+          "valor": 4500.0,
+          "observacao": "Ganha uma sessão na área externa caso feche o pacote. Rejuvenescimento íntimo."
+        }
+      ]
+    },
+    "dr_flavio_marcondes": {
+      "especialidade": "Cirurgias",
+      "procedimentos": [
+        {
+          "procedimento": "Lesão Pequena",
+          "valor": 500.0
+        },
+        {
+          "procedimento": "Lesão Média",
+          "valor": 700.0
+        },
+        {
+          "procedimento": "Lesão Grande",
+          "valor": 800.0
+        }
+      ]
+    }
+  },
+  "fios_pdo": {
+    "palpebra_inferior_glabela": {
+      "descricao": "Pacote com 4 fios canulados ou 10 agulhados. Na Glabela pode ser usado pacote com 4 fios canulados ou com 10 agulhados.",
+      "opcoes": [
+        {
+          "descricao": "8 fios canulados ou 20 fios agulhados",
+          "valor": 2600.0
+        },
+        {
+          "descricao": "8 fios canulados ou 10 fios agulhados",
+          "valor": 2000.0
+        }
+      ]
+    },
+    "face_pescoco_espiculado": {
+      "descricao": "Pacote com 4 fios / Pescoço fios lisos/submentro",
+      "opcoes": [
+        {
+          "descricao": "Pacote com 4 fios",
+          "valor": 3500.0
+        },
+        {
+          "descricao": "Pacote com 8 fios",
+          "valor": 4500.0
+        },
+        {
+          "descricao": "Pacote extra",
+          "valor": 1000.0
+        }
+      ]
+    },
+    "fios_parafuso": [
+      {
+        "quantidade": "10 fios",
+        "valor": 1500.0
+      },
+      {
+        "quantidade": "20 fios",
+        "valor": 2500.0
+      }
+    ],
+    "fios_filler": [
+      {
+        "quantidade": "10 fios",
+        "valor": 2000.0
+      },
+      {
+        "quantidade": "20 fios",
+        "valor": 2800.0
+      }
+    ],
+    "fios_sculpt": [
+      {
+        "quantidade": "04 fios",
+        "valor": 3600.0
+      },
+      {
+        "quantidade": "08 fios",
+        "valor": 3600.0
+      }
+    ],
+    "fios_aptos": {
+      "observacao": "Sendo tamanho M ou G, será uma média de valor, pois dependerá de qual técnica de aplicação será decidida em avaliação médica.",
+      "opcoes": [
+        {
+          "quantidade": "04 fios",
+          "valor": 2450.0
+        },
+        {
+          "quantidade": "04 fios (alt)",
+          "valor": 4000.0
+        },
+        {
+          "quantidade": "08 fios",
+          "valor": 6000.0
+        }
+      ]
+    },
+    "valores_por_medico": {
+      "P": 5500.0,
+      "M": 7000.0,
+      "G_dra_gisele": 8500.0,
+      "G": 10000.0
+    }
+  },
+  "fotona": {
+    "observacao": "Segunda quinzena do mês: 16 a 30/31",
+    "sessoes": [
+      {
+        "area": "2 Ponteiras Face",
+        "valor": 3000.0
+      },
+      {
+        "area": "3D Ponteiras Face",
+        "valor": 3500.0
+      },
+      {
+        "area": "4D Ponteiras Face",
+        "valor": 4000.0
+      },
+      {
+        "area": "4D Ponteiras Face + Papada",
+        "valor": 5000.0
+      },
+      {
+        "area": "4D Ponteiras Face + Papada + Papada",
+        "valor": 6000.0
+      },
+      {
+        "area": "4D Ponteiras Face + Papada + Papada + Pescoço",
+        "valor": null,
+        "observacao": "Valor não visível"
+      },
+      {
+        "area": "Papada",
+        "valor": 2000.0
+      },
+      {
+        "area": "Papada + Pescoço",
+        "valor": 3000.0
+      },
+      {
+        "area": "Pescoço ou Colo",
+        "valor": 2000.0
+      },
+      {
+        "area": "Terço Inferior + Papada",
+        "valor": 3000.0
+      },
+      {
+        "area": "Olhos",
+        "valor": 2000.0
+      },
+      {
+        "area": "Pálpebras",
+        "valor": 1500.0
+      },
+      {
+        "area": "Véu de Noiva / Peeling",
+        "valor": 1500.0
+      },
+      {
+        "area": "Lábios",
+        "valor": 800.0
+      },
+      {
+        "area": "Lábios e ao Redor + Intraoral",
+        "valor": 2500.0
+      },
+      {
+        "area": "Cicatriz de Acne (3 sessões)",
+        "valor": 4500.0
+      },
+      {
+        "area": "Cicatriz de Acne",
+        "valor": 2000.0
+      },
+      {
+        "area": "Rosácea",
+        "valor": 1500.0
+      },
+      {
+        "area": "Vasos",
+        "valor": 1500.0
+      },
+      {
+        "area": "Capilar",
+        "valor": 1000.0
+      },
+      {
+        "area": "Ronco",
+        "valor": 2000.0
+      },
+      {
+        "area": "Mãos",
+        "valor": 2000.0
+      },
+      {
+        "area": "Estrias",
+        "valor": 2000.0
+      }
+    ],
+    "protocolos_anuais": [
+      {
+        "descricao": "4 Ponteiras Face – 2x ao ano",
+        "valor": 7000.0
+      },
+      {
+        "descricao": "4 Ponteiras Face – 3x ao ano",
+        "valor": 10000.0
+      },
+      {
+        "descricao": "4 Ponteiras Face + Papada – 2x ao ano",
+        "valor": 9000.0
+      },
+      {
+        "descricao": "4 Ponteiras Face + Papada – 3x ao ano",
+        "valor": 13000.0
+      },
+      {
+        "descricao": "4 Ponteiras Face + Papada + Pescoço – 2x ao ano",
+        "valor": 10000.0
+      },
+      {
+        "descricao": "4 Ponteiras Face + Papada + Pescoço – 3x ao ano",
+        "valor": 14000.0
+      },
+      {
+        "descricao": "Pescoço – 3x ao ano",
+        "valor": null
+      },
+      {
+        "descricao": "Papada – 3x ao ano",
+        "valor": 5300.0
+      },
+      {
+        "descricao": "Corporal (necessária avaliação) – média",
+        "valor": 2500.0
+      }
+    ]
+  },
+  "ultraformer_mpt": {
+    "observacao": "Valores atualizados",
+    "facial": [
+      {
+        "area": "Full Face",
+        "valor": 4500.0
+      },
+      {
+        "area": "Full Face + Papada",
+        "valor": 5000.0
+      },
+      {
+        "area": "Full Face + Boca",
+        "valor": 4300.0
+      },
+      {
+        "area": "Full Face + Papada + Boca",
+        "valor": 5800.0
+      },
+      {
+        "area": "Full Face + Papada + Pescoço",
+        "valor": 5000.0
+      },
+      {
+        "area": "Pescoço",
+        "valor": 2200.0
+      },
+      {
+        "area": "Papada",
+        "valor": 2200.0
+      },
+      {
+        "area": "Papada + Pescoço",
+        "valor": 3700.0
+      },
+      {
+        "area": "Boca",
+        "valor": 2100.0
+      },
+      {
+        "area": "Pálpebras",
+        "valor": 1000.0
+      },
+      {
+        "area": "Sobrancelhas Completos ou Fox Eyes",
+        "valor": 1000.0
+      },
+      {
+        "area": "Olhos Completos",
+        "valor": 2000.0
+      },
+      {
+        "area": "Fronte (Testa)",
+        "valor": 850.0
+      },
+      {
+        "area": "Terço Inferior",
+        "valor": 850.0
+      },
+      {
+        "area": "Terço Inferior + Papada",
+        "valor": 3500.0
+      },
+      {
+        "area": "Terço Inf + Papada + Pálpebras",
+        "valor": 4600.0
+      },
+      {
+        "area": "Terço Inf + Papada + Papa + Pescoço",
+        "valor": 4000.0
+      },
+      {
+        "area": "Terço Inf + Papada + Papa + Pescoço (completo)",
+        "valor": 5000.0
+      }
+    ],
+    "corporal": [
+      {
+        "area": "Colo",
+        "valor": 1400.0
+      },
+      {
+        "area": "Braço",
+        "valor": 2800.0
+      },
+      {
+        "area": "Pré Axilar",
+        "valor": 700.0
+      },
+      {
+        "area": "Abdômen Completo",
+        "valor": 5500.0
+      },
+      {
+        "area": "Flancos",
+        "valor": 5600.0
+      },
+      {
+        "area": "Coxas",
+        "valor": 4200.0
+      },
+      {
+        "area": "Bananinha",
+        "valor": 1600.0
+      },
+      {
+        "area": "Joelho",
+        "valor": 2200.0
+      },
+      {
+        "area": "Perna",
+        "valor": 5200.0
+      }
+    ]
+  },
+  "laser_chrome": [
+    {
+      "protocolo": "Chrome",
+      "valor": 1500.0
+    },
+    {
+      "protocolo": "Área Corporal",
+      "valor": 1800.0
+    },
+    {
+      "protocolo": "Olheira",
+      "valor": 700.0
+    },
+    {
+      "protocolo": "Tatuagem Pequena",
+      "valor": 1500.0
+    },
+    {
+      "protocolo": "Tatuagem Média",
+      "valor": 1700.0
+    },
+    {
+      "protocolo": "Tatuagem Grande",
+      "valor": 1900.0
+    },
+    {
+      "protocolo": "Chrome Erbium Olhos",
+      "valor": 1500.0
+    }
+  ],
+  "lipolifting": [
+    {
+      "area": "Rosto + Papada",
+      "valor": 7000.0
+    },
+    {
+      "area": "Rosto + Papada + Pescoço",
+      "valor": 8500.0
+    },
+    {
+      "area": "Papada",
+      "valor": 4500.0
+    },
+    {
+      "area": "Abdômen",
+      "valor": 8000.0
+    },
+    {
+      "area": "Gordura do Sutiã",
+      "valor": 3200.0
+    },
+    {
+      "area": "Flancos 04 Quadrados",
+      "valor": 5500.0
+    },
+    {
+      "area": "Flancos 06 Quadrados",
+      "valor": 8000.0
+    },
+    {
+      "area": "Costas",
+      "valor": 8000.0
+    },
+    {
+      "area": "Braços",
+      "valor": 6400.0
+    }
+  ],
+  "coolfase": [
+    {
+      "area": "Full Face",
+      "valor": 5500.0
+    },
+    {
+      "area": "Full Face + Papada",
+      "valor": 6000.0
+    },
+    {
+      "area": "Full Face + Papada + Pescoço",
+      "valor": 6800.0
+    },
+    {
+      "area": "Terço Inferior",
+      "valor": 4200.0
+    },
+    {
+      "area": "Terço Inferior + Papada",
+      "valor": 5000.0
+    },
+    {
+      "area": "Papada + Pescoço",
+      "valor": 3800.0
+    },
+    {
+      "area": "Pescoço",
+      "valor": 3000.0
+    },
+    {
+      "area": "Pálpebras",
+      "valor": 1500.0
+    },
+    {
+      "area": "Olhos",
+      "valor": 2500.0
+    }
+  ],
+  "depilacao_lightsheer": {
+    "fisioterapeuta": {
+      "observacao": "Disponível no 5º andar – Dermos Estética/Capilar – 16 a 30/31",
+      "procedimentos": [
+        {
+          "area": "½ Perna",
+          "valor": 300.0
+        },
+        {
+          "area": "Axilas",
+          "valor": 125.0
+        },
+        {
+          "area": "Barba",
+          "valor": 200.0
+        },
+        {
+          "area": "Buço",
+          "valor": 125.0
+        },
+        {
+          "area": "Coxas",
+          "valor": 300.0
+        },
+        {
+          "area": "Face",
+          "valor": 300.0
+        },
+        {
+          "area": "Perna Toda",
+          "valor": 150.0
+        },
+        {
+          "area": "Pescoço",
+          "valor": 500.0
+        },
+        {
+          "area": "Virilha",
+          "valor": 175.0
+        },
+        {
+          "area": "Virilha + Grandes Lábios",
+          "valor": 225.0
+        },
+        {
+          "area": "Região Perianal",
+          "valor": 250.0
+        },
+        {
+          "area": "Antebraço",
+          "valor": 275.0
+        },
+        {
+          "area": "Braço + Antebraço",
+          "valor": 300.0
+        },
+        {
+          "area": "Mento",
+          "valor": 300.0
+        }
+      ]
+    },
+    "medicos": {
+      "observacao": "Disponível no 6º andar – Dermos – 16 a 30/31",
+      "procedimentos": [
+        {
+          "area": "½ Perna",
+          "valor": 600.0
+        },
+        {
+          "area": "Axilas",
+          "valor": 400.0
+        },
+        {
+          "area": "Barba",
+          "valor": 600.0
+        },
+        {
+          "area": "Buço",
+          "valor": 250.0
+        },
+        {
+          "area": "Coxas",
+          "valor": 600.0
+        },
+        {
+          "area": "Face",
+          "valor": 300.0
+        },
+        {
+          "area": "Mento",
+          "valor": 300.0
+        },
+        {
+          "area": "Perna Toda",
+          "valor": 1000.0
+        },
+        {
+          "area": "Pescoço",
+          "valor": 350.0
+        },
+        {
+          "area": "Virilha",
+          "valor": 450.0
+        },
+        {
+          "area": "Virilha + Grandes Lábios",
+          "valor": 500.0
+        },
+        {
+          "area": "Região Perianal",
+          "valor": 550.0
+        },
+        {
+          "area": "Antebraço",
+          "valor": 600.0
+        },
+        {
+          "area": "Braço + Antebraço",
+          "valor": 700.0
+        }
+      ]
+    }
+  }
+}
